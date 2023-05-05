@@ -1,5 +1,1 @@
 pyinstaller
-glob
-shutil
-pathlib
-tkinter
