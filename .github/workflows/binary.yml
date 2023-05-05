@@ -1,4 +1,4 @@
-name: Gerar Binário
+name: Generate binary
 
 on:
   push:
@@ -19,9 +19,9 @@ jobs:
       run: |
         python -m pip install --upgrade pip
         pip install -r requirements.txt
-    - name: Build Binário
+    - name: Build Binary
       run: pyinstaller --onefile --name tif2png tif2png.py
-    - name: Upload Binário
+    - name: Upload Binary
       uses: actions/upload-artifact@v2
       with:
         name: tif2png
