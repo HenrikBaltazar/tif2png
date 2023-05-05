@@ -45,12 +45,12 @@ def browse_folder():
 
 
 root = tk.Tk()
-root.title('Conversão de Arquivos')
+root.title('CAIO - Conversor de Arquivos Instantaneo e Organizado')
 root.geometry('400x200')
 
 folder_path_var = tk.StringVar()
 
-folder_label = tk.Label(root, text='Selecione a pasta contendo os arquivos TIFF:')
+folder_label = tk.Label(root, text='Selecione a pasta contendo os arquivos TIF:')
 folder_label.pack(pady=10)
 
 folder_frame = tk.Frame(root)
