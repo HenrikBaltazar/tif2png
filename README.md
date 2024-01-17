@@ -1,7 +1,9 @@
 # tif2png
-![GitHub License](https://img.shields.io/github/license/HenrikBaltazar/tif2png)
-![GitHub Actions Workflow Status](https://img.shields.io/github/actions/workflow/status/HenrikBaltazar/tif2png/Unix)
-![GitHub Actions Workflow Status](https://img.shields.io/github/actions/workflow/status/HenrikBaltazar/tif2png/Windows)
+[![GitHub Release](https://img.shields.io/github/v/release/HenrikBaltazar/tif2png)](https://github.com/HenrikBaltazar/tif2png/releases)
+[![GitHub License](https://img.shields.io/github/license/HenrikBaltazar/tif2png)](https://github.com/HenrikBaltazar/tif2png?tab=MIT-1-ov-file#readme)
+![GitHub Actions Workflow Status](https://img.shields.io/github/actions/workflow/status/HenrikBaltazar/tif2png/binary.yml)
+![GitHub Actions Workflow Status](https://img.shields.io/github/actions/workflow/status/HenrikBaltazar/tif2png/exe.yml)
+
 
 
 Yea it just converts .tif to .png.
