@@ -1,5 +1,8 @@
 # tif2png
 ![GitHub License](https://img.shields.io/github/license/HenrikBaltazar/tif2png)
+![GitHub Actions Workflow Status](https://img.shields.io/github/actions/workflow/status/HenrikBaltazar/tif2png/Unix)
+![GitHub Actions Workflow Status](https://img.shields.io/github/actions/workflow/status/HenrikBaltazar/tif2png/Windows)
+
 
 Yea it just converts .tif to .png.
 ## RUN
