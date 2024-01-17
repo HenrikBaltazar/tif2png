@@ -1,4 +1,4 @@
-name: Unix
+name: Linux
 
 on:
   push:
@@ -7,7 +7,7 @@ on:
     branches: [ main ]
 
 jobs:
-  build:
+  Linux build:
     runs-on: ubuntu-latest
     steps:
     - uses: actions/checkout@v2
