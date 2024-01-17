@@ -51,7 +51,7 @@ HEADLESS = False
 if len(sys.argv) == 1:
     root = tk.Tk()
     root.title('CAIO - Conversor de Arquivos Instantaneo e Organizado')
-    root.geometry('400x200')
+    root.geometry('600x200')
 
     folder_path_var = tk.StringVar()
 
